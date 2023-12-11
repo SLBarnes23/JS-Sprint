@@ -1,0 +1,42 @@
+[
+    {
+      "fname": "Johnny",
+      "lname": "Timmins",
+      "position": "Infield",
+      "birthday": "12/28/2003",
+      "ContractLength": "5",
+      "salary": "$3000000"
+    },
+    {
+        "fname": "Jose",
+        "lname": "Cuervo",
+        "position": "Pitcher",
+        "birthday": "05/30/1998",
+        "ContractLength": "4",
+        "salary": "$850000"
+    },
+    {
+        "fname": "Connor",
+        "lname": "Williams",
+        "position": "Outfield",
+        "birthday": "01/07/2004",
+        "ContractLength": "4",
+        "salary": "$6000000"
+    },
+    {
+        "fname": "Miguel",
+        "lname": "Costas",
+        "position": "Pitcher",
+        "birthday": "05/30/1998",
+        "ContractLength": "8",
+        "salary": "$10000000"
+    },
+    {
+      "fname": "Leslie",
+      "lname": "Nielson",
+      "position": "Outfield",
+      "birthday": "9/3/1989",
+      "ContractLength": "1",
+      "salary": "$1000000"
+    }
+  ]
